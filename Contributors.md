@@ -8237,5 +8237,6 @@ Didac Vilarnau
 - [Zeke](https://github.com/sackeyetrue) **Fueled by Curioisty, Powered by Passion**
 - [YuklidD](https://github.com/YuklidD) **Hello, Dakshana from Sri Lanka**
 - **Hello, from Kenya** [Njoro90260](https://github.com/Njoro90260)here. Let's connect on [LinkedIn](https://www.linkedin.com/in/peter-njoroge-71b689251/). 
-
+- [Russell Anderson](https://github.com/Russyd444) **First step into open-source** 
+- 
   ​                                                           
